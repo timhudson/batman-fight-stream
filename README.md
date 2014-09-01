@@ -13,6 +13,20 @@ var batmanFightStream = require('batman-fight-stream')
 
 batmanFightStream({count: 100, newline: true})
   .pipe(process.stdout)
+
+// THWACKE
+// KER-PLOP
+// WHACK-ETH
+// WHAMM
+// SWISH
+// SWAAP
+// HURT
+// ZAP
+// SPLATS
+// SPLAAT
+// GLIPP
+// ZLOPP
+// ...
 ```
 
 ## License
