@@ -1,0 +1,20 @@
+{
+  "name": "batman-fight-stream",
+  "version": "1.0.0",
+  "description": "Read stream of batman fight words",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timhudson/batman-fight-stream.git"
+  },
+  "author": "Tim Hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timhudson/batman-fight-stream/issues"
+  },
+  "homepage": "https://github.com/timhudson/batman-fight-stream",
+  "dependencies": {
+    "batman-fight": "^1.0.0",
+    "readable-stream": "^1.0.31"
+  }
+}
